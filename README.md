@@ -1,5 +1,10 @@
 # Apptizer Client
 
-> Please note that Apptizer still developed and source code will be available soon. If you interested with us, make sure you fork to this repository to receive update or sent email to apptizersupport@yuripertamax.me to manually subscribe ;)
+Please note: Currently now apptizer still developed and source code will be available soon. If you interested with us, make sure you watch to this repository to receive update or sent email to yuripertamax@gmail.com so I can manually added you as subscriber
 
-Client App for Apptizer Resto Order System &amp; Management
+## Table of contents
+* [What is Apptizer?](#what-is-apptizer)
+* [Features](#features)
+* [Creators](#creators)
+* [Copyright and license](#copyright-and-license)
+
