@@ -1,6 +1,6 @@
 # Apptizer Client
 
-Please note: Currently now apptizer still developed and source code will be available soon. If you interested with us, make sure you watch to this repository to receive update or sent email to apptizersupport@yuripertamax.me so I can manually added you as subscriber
+Please note: Currently now Apptizer still developed and source code will be available soon. If you interested with us, make sure you watch to this repository to receive update or sent us an email to apptizersupport@yuripertamax.me so I can manually added you as subscriber
 
 [![apptizer-banner](https://lh5.googleusercontent.com/EPAj4rQvx6OyQmOdTT9e1Y5A_s7SAJUdwWxLrmD9HvbKbGk48VwSfDI-lXp0PchsvwIM)](https://apptizer.yuripertamax.me)
 
